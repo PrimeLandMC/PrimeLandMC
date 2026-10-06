@@ -58,7 +58,7 @@ Java Edition  ➜  play.primelandmc.net
       </a>
       <br/><br/>
       <h3>⚡ Mindula7</h3>
-      <em>Founder · Architect of PrimeLandMC</em>
+      <em>Founder · Mind Behind PrimeLandMC</em>
       <br/><br/>
       <a href="https://mindula7.primelandmc.net"><img src="https://img.shields.io/badge/Portfolio-Visit-8B0000?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
       <a href="https://github.com/Mindula77"><img src="https://img.shields.io/badge/GitHub-Mindula77-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
