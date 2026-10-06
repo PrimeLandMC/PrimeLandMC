@@ -70,14 +70,14 @@ Java Edition  ➜  play.primelandmc.net
     </td>
     <td align="center" width="50%" valign="top">
       <a href="https://lakindulorensuhewa.vercel.app">
-        <img src="https://github-readme-stats.vercel.app/api?username=Lakoshi-Gaming&show_icons=true&theme=dark&bg_color=0d0d0d&border_color=8B0000&title_color=FF4500&icon_color=FF4500&text_color=ffffff" width="100%" alt="Lakoshi_Gaming GitHub stats"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=lakindulorensuhewa&show_icons=true&theme=dark&bg_color=0d0d0d&border_color=8B0000&title_color=FF4500&icon_color=FF4500&text_color=ffffff" width="100%" alt="Lakoshi_Gaming GitHub stats"/>
       </a>
       <br/><br/>
       <h3>🔥 Lakoshi_Gaming</h3>
       <em>Founder · Vision Behind PrimeLandMC</em>
       <br/><br/>
       <a href="https://lakindulorensuhewa.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-8B0000?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
-      <a href="https://github.com/Lakoshi-Gaming"><img src="https://img.shields.io/badge/GitHub-Lakoshi--Gaming-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
+      <a href="https://github.com/lakindulorensuhewa"><img src="https://img.shields.io/badge/GitHub-Lakoshi--Gaming-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
       <br/>
       <a href="https://www.youtube.com/channel/UCREyfZFMf0nAGEeoxQ3yHyg"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"/></a>
       <a href="https://www.tiktok.com/@lt_lorenz"><img src="https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white" alt="TikTok"/></a>
