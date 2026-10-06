@@ -77,7 +77,7 @@ Java Edition  ➜  play.primelandmc.net
       <em>Founder · Vision Behind PrimeLandMC</em>
       <br/><br/>
       <a href="https://lakindulorensuhewa.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-8B0000?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
-      <a href="https://github.com/lakindulorensuhewa"><img src="https://img.shields.io/badge/GitHub-Lakoshi--Gaming-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
+      <a href="https://github.com/lakindulorensuhewa"><img src="https://img.shields.io/badge/GitHub-lakindulorensuhewa-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
       <br/>
       <a href="https://www.youtube.com/channel/UCREyfZFMf0nAGEeoxQ3yHyg"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"/></a>
       <a href="https://www.tiktok.com/@lt_lorenz"><img src="https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white" alt="TikTok"/></a>
